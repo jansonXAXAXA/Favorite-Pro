@@ -111,7 +111,7 @@
 <br>
 
 <details>
-<summary><strong>🇬🇧 English Instructions (click to expand)</strong></summary>
+<summary><strong>:us: English Instructions (click to expand)</strong></summary>
 
 **Prerequisites:** **Git**, **Python 3.10+**, **Docker Desktop**.
 
