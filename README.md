@@ -40,7 +40,6 @@
 #### Шаг 1: Получение кода
 *   Клонируйте репозиторий на свой компьютер:
     ```bash
-    # Замените URL на адрес вашего репозитория
     git clone https://github.com/YourUsername/YourRepoName.git
     cd YourRepoName
     ```
@@ -118,7 +117,6 @@
 #### Step 1: Clone the Repository
 *   Clone the repository to your computer:
     ```bash
-    # Replace the URL with your repository's address
     git clone https://github.com/YourUsername/YourRepoName.git
     cd YourRepoName
     ```
